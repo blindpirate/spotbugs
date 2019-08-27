@@ -33,6 +33,6 @@ gui goal
 For detail, please refer `gui goal description in maven site <https://spotbugs.github.io/spotbugs-maven-plugin/gui-mojo.html>`_.
 
 help goal
-^^^^^^^^^
+^^^^^^^^^fsdfsdf
 
 ``help`` goal displays usage of this Maven plugin.
